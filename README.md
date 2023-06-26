@@ -66,17 +66,17 @@ sudo apt install git -y
    2) In your workspace, include your local folder in the Matlab path
    3) Run the [simulateUR5.m](simulateUR5.m) file
  
-Workspace overview: 
+### Workspace overview: 
 
 ![Example image](Doc/overview_.png)
 
 This example can be seen here: https://youtu.be/7HZ0FFU4_uo
 
-An interactive view of the Robot in Matlab:
+### An interactive view of the Robot in Matlab:
 
 ![Example image](Doc/Interactive_view_robot.png)
 
-Robot joint information:
+### Robot joint information:
 
 ![Example image](Doc/robo_info.png)
 
