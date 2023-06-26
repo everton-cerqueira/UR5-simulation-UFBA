@@ -65,10 +65,21 @@ sudo apt install git -y
    1) Clone this repository
    2) In your workspace, include your local folder in the Matlab path
    3) Run simulateUR5.m file
-      
+ 
+Workspace overview:     
 ![Example image](Doc/overview_.png)
 
- This example can be seen here: https://youtu.be/7HZ0FFU4_uo
+This example can be seen here: https://youtu.be/7HZ0FFU4_uo
+
+An interactive view of the Robot in Matlab:
+
+![Example image](Doc/Interactive_view_robot.png)
+
+The linear velocity of the end-effector:
+
+![Example image](Doc/End-effector_linear_velocity.png)
+
+
 
       
    
