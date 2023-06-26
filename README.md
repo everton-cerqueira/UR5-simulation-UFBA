@@ -66,7 +66,7 @@ sudo apt install git -y
    2) Include this folder in the Matlab path
    3) Run simulateUR5.m file
       
-  ![Example image](Doc/overview.png)
+  
 
  This example can be shown here: https://youtu.be/7HZ0FFU4_uo
 
