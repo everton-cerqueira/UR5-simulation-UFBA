@@ -3,7 +3,7 @@
 # Overview
 This example shows how to design real-life application workflows for the UR5 robotic manipulator using Matlab and Gazebo. 
 
-This example use:
+This example uses:
 
 Robotics System Toolbox Support Package for Kinova Gen3 Manipulators (https://www.mathworks.com/help/supportpkg/robotmanipulator/index.html)
 
