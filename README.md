@@ -15,6 +15,8 @@ ROS Melodic (http://wiki.ros.org/melodic/Installation/Ubuntu)
 
 Gazebo 9 (https://classic.gazebosim.org/tutorials?cat=install&tut=install_ubuntu&ver=9.0)
 
+Ubuntu 18.04 LTS (https://releases.ubuntu.com/18.04/)
+
 ## Installation
 
 
