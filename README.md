@@ -67,7 +67,7 @@ This example uses:
 
 ![Example image](Doc/overview_.png)
 
-This example can be seen here: https://youtu.be/7HZ0FFU4_uo
+This example can be seen here: [UR5 simulation video on YouTube](https://youtu.be/7HZ0FFU4_uo)
 
 ### An interactive view of the robot in Matlab:
 
