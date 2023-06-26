@@ -5,17 +5,12 @@ This example shows how to design real application workflows for the UR5 robotic 
 
 This example uses:
 
-Robotics System Toolbox Support Package for Kinova Gen3 Manipulators (https://www.mathworks.com/help/supportpkg/robotmanipulator/index.html)
-
-ROS Toolbox (https://www.mathworks.com/help/ros/index.html)
-
-Robotics System Toolbox (https://www.mathworks.com/help/robotics/index.html)
-
-ROS Melodic (http://wiki.ros.org/melodic/Installation/Ubuntu)
-
-Gazebo 9 (https://classic.gazebosim.org/tutorials?cat=install&tut=install_ubuntu&ver=9.0)
-
-Ubuntu 18.04 LTS (https://releases.ubuntu.com/18.04/)
+- [Robotics System Toolbox Support Package for Kinova Gen3 Manipulators](https://www.mathworks.com/help/supportpkg/robotmanipulator/index.html)
+- [ROS Toolbox ](https://www.mathworks.com/help/ros/index.html)
+- [Robotics System Toolbox ](https://www.mathworks.com/help/robotics/index.html)
+- [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
+- [Gazebo 9 ](https://classic.gazebosim.org/tutorials?cat=install&tut=install_ubuntu&ver=9.0)
+- [Ubuntu 18.04 LTS ](https://releases.ubuntu.com/18.04/)
 
 ## Installation
 
