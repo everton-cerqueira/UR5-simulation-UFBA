@@ -54,7 +54,7 @@ sudo apt install git -y
 ```
 ### Install ur_glue_dispensing_gazebo package
 
-1) Copy ![ur_glue_dispensing_gazebo package](Files/ur_glue_dispensing_gazebo.zip) to your newly created ur_ws/src directory
+1) Copy ![ur_glue_dispensing_gazebo package](Files/ur_glue_dispensing_gazebo.zip) to your newly created ```ur_ws/src``` directory
 2) Unzip the folder
 3) Open the terminal and type:
    ```
