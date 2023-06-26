@@ -45,7 +45,30 @@ sudo apt install git -y
   rosdep update
   rosdep install --from-paths src --ignore-src -y 
 ```
+
 6) Build the workspace using catkin tool. This will take a few minutes to complete.
 ```
   catkin_make
 ```
+### Install ur_glue_dispensing_gazebo package
+
+1) Copy Files/ur_glue_dispensing_gazebo.zip to ur_ws/src
+2) Unzip the folder
+3) Open the terminal and type:
+   ```
+   cd ur_ws
+   source devel/setup.bash
+   catkin_make --only-pkg-with-deps ur_glue_dispensing_gazebo
+   source devel/setup.bash
+   ```
+ ## Running
+   1) Clone this repository
+   2) Include this folder in the Matlab path
+   3) Run simulateUR5.m file
+      
+  ![Example image](Doc/overview.png)
+
+ This example can be shown here: https://youtu.be/7HZ0FFU4_uo
+
+      
+   
