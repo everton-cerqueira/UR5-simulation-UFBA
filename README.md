@@ -1,7 +1,7 @@
 # UR5-simulation-UFBA
 
 ## Overview
-This example shows how to design real-life application workflows for the UR5 robotic manipulator using Matlab and Gazebo. 
+This example shows how to design real application workflows for the UR5 robotic manipulator using Matlab and Gazebo to apply glue to a windshield.
 
 This example uses:
 
@@ -72,7 +72,7 @@ sudo apt install git -y
 
 This example can be seen here: https://youtu.be/7HZ0FFU4_uo
 
-### An interactive view of the Robot in Matlab:
+### An interactive view of the robot in Matlab:
 
 ![Example image](Doc/Interactive_view_robot.png)
 
